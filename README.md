@@ -1,16 +1,13 @@
-## Hi there 👋
+# Welcome! 👋 I'm surio010101-hash
 
-<!--
-**surio010101-hash/surio010101-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hash enthusiast yang suka dengan kriptografi dan keamanan data. 010101 adalah bahasa saya.
 
-Here are some ideas to get you started:
+## 🔐 Interests
+- Cryptography
+- Hash functions
+- Data security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Binary Mindset
+Melihat dunia dalam 0 dan 1. Everything is data!
+
+Stay secure! 🔒
